@@ -1,0 +1,28 @@
+_repo: How-to-become-an-inventor-b-Containing-experiments-in-photography-hydraulics-galvanism-and-el__72892
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warford, Aaron A.
+    gutenberg_agent_id: '41524'
+    url: http://www.gutenberg.org/2009/agents/41524
+description: ''
+gutenberg_issued: '2024-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72892'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:811721
+pgterms:marc905: 20230530100746warford
+pgterms:marc906: '1898'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aNew York :$bFrank Tousey, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'How to become an inventor : $b Containing experiments in photography, hydraulics,
+  galvanism and electricity, magnetism, heat, and the wonders of the microscope'
+url: http://www.gutenberg.org/ebooks/72892
